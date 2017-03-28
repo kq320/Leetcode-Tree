@@ -28,11 +28,11 @@ Leetcode-Tree
 
 11.求二叉树中两个节点的最低公共祖先节点：
 
-LAC        求解最小公共祖先, 使用list来存储path
+       LAC        求解最小公共祖先, 使用list来存储path
        
-LCABstRec  递归求解BST树
+       LCABstRec  递归求解BST树
        
-LCARec     递归算法
+       LCARec     递归算法
 
 12.求二叉树中节点的最大距离：getMaxDistanceRec 
 
