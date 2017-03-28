@@ -20,9 +20,9 @@ Leetcode-Tree
 
 10.求二叉树的镜像（破坏和不破坏原来的树两种情况）：
 
-mirrorRec, mirrorCopyRec
+       mirrorRec, mirrorCopyRec
 
-mirror, mirrorCopy 
+       mirror, mirrorCopy 
 
 10.1 判断两个树是否互相镜像：isMirrorRec isMirror
 
